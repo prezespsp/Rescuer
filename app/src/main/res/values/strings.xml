@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Rescuer</string>
+    <string name="morse">Morse</string>
+    <string name="gps">GPS</string>
+    <string name="sms">SMS-SOS</string>
+    <string name="dane_osobowe">Personal data</string>
+    <string name="ustawienia">Settings</string>
+
+    <string name="title_activity_morse">Morse</string>
+    <string name="title_activity_gps">GPS</string>
+    <string name="title_activity_sms">SMS-SOS</string>
+    <string name="title_activity_dane_osobowe">Personal data</string>
+    <string name="title_activity_ustawienia">Settings</string>
+
+    <string name="imie">Imię</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="data_ur">Data urodzenia</string>
+    <string name="krew">Grupa krwi</string>
+    <string name="adres">Adres zamieszkania</string>
+    <string name="telefon">Telefon do bliskiej osoby</string>
+    <string name="napis">Zaakceptuj</string>
+
+    <string name="imie_hint">Tutaj podaj swoje imię</string>
+    <string name="nazwisko_hint">Tutaj podaj swoje nazwisko</string>
+    <string name="data_ur_hint">Tutaj podaj swoją datę urodzenia</string>
+    <string name="krew_hint">Tutaj podaj swoją grupę krwi</string>
+    <string name="adres_hint">Tutaj podaj swój adres zamieszkania</string>
+    <string name="telefon_hint">Tutaj podaj swój nr telefonu</string>
+    <string name="title_activity_personal_data_compose">Ustawienia Danych Osobowych</string>
+
+    <string name="personal_data_compose">Ustawienia danych osobowych</string>
+    <string name="personal_data_compose_hint">Tutaj wprowadź dane osobowe</string>
+
+    <string name="sms_compose">Tutaj wprowadź treść sms-sos</string>
+    <string name="sms_compose_hint">Tutaj wprowadź treść sms-sos</string>
+
+    <string name="save">Zapisz wprowadzone dane</string>
+    <string name="save_hint">zapisz wprowadzone dane</string>
+
+
+</resources>
+
